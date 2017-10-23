@@ -9,9 +9,9 @@
 #
 app:
   name: kobble.io # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 1273564884 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
 
-  icon: # Leave blank to auto-magically populate
+  icon: images/app-icon-512.jpg
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -33,13 +33,13 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github: kobble-git
   facebook:
-  twitter:
+  twitter: kobble
   pinterest:
   instagram:
-  email:
-  youtube: # channel/<your_long_string> or <user-name>
+  email: hello@kobble.io
+  youtube: kobble
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 #
