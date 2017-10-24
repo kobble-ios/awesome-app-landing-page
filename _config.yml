@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: kobble.io # REQUIRED - Enter your app name
+  name: kobble # REQUIRED - Enter your app name
   ios_id: 1273564884 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
 
   icon: images/app-icon.jpeg
@@ -16,7 +16,8 @@ app:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
 
-  screenshot: # Leave blank to auto-magically populate
+  screenshot: images/home-screenshot.png 
+  # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-screen-640x1136.png
   # 640x1136px
@@ -24,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Organizer, Markdown Notes, Bookmarks, and more # Optional
+marketing_desc: Instantly create and organize beautiful content for a variety of purposes, including notes, blogs, wikis, presentations, slideshows, projects, papers, homework, and more.
 
 #
 # Social Links
@@ -39,7 +40,7 @@ social-links:
   pinterest:
   instagram:
   email: hello@kobble.io
-  youtube: channel/UCzBubzm9JNU2EV8nzKiWCGA
+  youtube: UolRLSgeRtA
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 #
